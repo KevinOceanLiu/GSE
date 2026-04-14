@@ -69,9 +69,3 @@ This repository contains the analysis-ready dataset, model outputs, and R script
   - `FNN`
   - `ggplot2`
   - `dplyr`
-
-## Citation
-
-If you use these data or code, please cite:
-
-Liu, H., Song, Y., Zhang, P., & Ren, K. (2026). Generalized spatial error for validation. [Journal name, volume, pages/DOI]
