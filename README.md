@@ -1,6 +1,6 @@
 # Generalized Spatial Error (GSE): data and code repository
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19565905.svg)](https://doi.org/10.5281/zenodo.19565905)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20472428.svg)](https://doi.org/10.5281/zenodo.20472428)
 
 This repository contains the analysis-ready data, model residuals, and R scripts used for the study:
 
